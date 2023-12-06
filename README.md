@@ -9,6 +9,8 @@ Design of the system:
 ![image](https://github.com/biki007/Plant-Disease-Detection-using-VGG-16-and-Flask-Framework/assets/69428963/a86edf3c-5d18-44fb-b130-19d3f4428aa6)
 
 Screenshot of our Plant Disease Detection System website: 
+
+
 Login Page:
 ![image](https://github.com/biki007/Plant-Disease-Detection-using-VGG-16-and-Flask-Framework/assets/69428963/f8c8d95c-6bb5-4394-9549-891287690236)
 
